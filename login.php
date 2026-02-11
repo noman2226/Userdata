@@ -52,7 +52,7 @@ if(isset($_POST['login'])){
 <body>
     <div class="container">
         <div class="card">
-            <h2>Welcome back</h2>
+            <h2>Welcome Back</h2>
             <p class="lead">Log in to your account to continue.</p>
 
             <?php if($error): ?>
